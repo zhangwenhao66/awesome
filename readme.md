@@ -153,6 +153,7 @@
 - [Uno Platform](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 - [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
 - [Backstage](https://github.com/shano/awesome-backstage#readme) - Open-source platform for building Internal Developer Portals that unify tools and workflows.
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 
 ## Programming Languages
 
